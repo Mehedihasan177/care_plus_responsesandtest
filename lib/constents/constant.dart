@@ -1,0 +1,1 @@
+String apiDomainRoot = "http://careplus.skoder.co";
